@@ -29,3 +29,4 @@ ul.style.textAlign = 'left';
 ul.removeChild(ul.querySelector('li:nth-child(2)'));
 
 // remove the whole list
+ul.remove();
