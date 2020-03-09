@@ -7,3 +7,4 @@ element.style.backgroundColor = '#f9f9f9';
 
 // append to dom node
 document.body.appendChild(element);
+
