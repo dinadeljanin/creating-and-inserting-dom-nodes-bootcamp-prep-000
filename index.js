@@ -25,3 +25,7 @@ element.appendChild(ul);
 // more styling
 ul.style.textAlign = 'left';
 
+// remove one list item
+ul.removeChild(ul.querySelector('li:nth-child(2)'));
+
+// remove the whole list
