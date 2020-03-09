@@ -21,3 +21,6 @@ for (let i = 0; i < 3; i++) {
 }
  
 element.appendChild(ul);
+
+// more styling
+ul.style.textAlign = 'left';
